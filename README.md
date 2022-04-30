@@ -1,7 +1,9 @@
 Daily Learning
 
 # Abstracting a Role-playing Game Using Object Orientation with C#
-I reinforced my knowledge of Object Oriented Programming (OOP) in C# with a totally hands-on design challenge. For this, the pillars of object orientation were explored in the context of an RPG game. With that, I developed my ability to abstract with a real problem and implemented the evolutions that I deemed necessary.
+
+Project developed in Digital Innovation One's GFT Start #3 .NET with expert instruction [Felipe Aguiar](https://github.com/felipeAguiarCode "Felipe Aguiar"). 
+Learning to Abstract a Role Playing Game Using Object Oriented Programming (OOP) with C#.
 
 ## Requirements
 - Knowledge in C# and .NET
